@@ -58,7 +58,7 @@ PRODUCT_COPY_FILES += \
 
 # Fingerprint sensor
 PRODUCT_COPY_FILES += \
-    frameworks/native/data/etc/cyanogenmod.hardware.fingerprint.xml:system/etc/permissions/cyanogenmod.hardware.fingerprint.xml
+    frameworks/native/data/etc/android.hardware.fingerprint.xml:system/etc/permissions/android.hardware.fingerprint.xml
 PRODUCT_PACKAGES += \
     fingerprint.msm8916
 
