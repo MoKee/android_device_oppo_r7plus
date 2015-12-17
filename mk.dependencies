@@ -1,5 +1,9 @@
 [
   {
+    "repository": "android_vendor_oppo_r7plus",
+    "target_path": "vendor/oppo/r7plus"
+  },
+  {
     "repository": "android_device_oppo_msm8939-common",
     "target_path": "device/oppo/msm8939-common"
   }
